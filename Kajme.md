@@ -1,7 +1,7 @@
-Name: Kaunen 
+*Name*: Kaunen 
 
-Major: CS 
+*Major:* CS 
 
-Favorite CS Topic: vector 
+*Favorite CS Topic:* vector 
 
-Challenge Topic: memory location 
+*Challenge Topic: memory* location 
