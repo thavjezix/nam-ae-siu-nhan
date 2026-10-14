@@ -1,4 +1,4 @@
-# nam-ae-siu-nhan
+# bon-ae-siu-nhan
 Module 07 Lecture Activity
 
 [Thang](https://github.com/thavjezix/nam-ae-siu-nhan/blob/main/tha60.md)
